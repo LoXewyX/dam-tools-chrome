@@ -1,0 +1,40 @@
+{
+  "name": "dam-tools-chrome",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "webpack --watch --config webpack.dev.cjs",
+    "build": "webpack --config webpack.prod.cjs",
+    "vite:dev": "vite",
+    "vite:build": "tsc -b && vite build",
+    "vite:preview": "vite preview"
+  },
+  "dependencies": {
+    "@preact/signals": "^1.3.0",
+    "preact": "^10.23.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/plugin-transform-react-jsx": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "@babel/preset-react": "^7.24.7",
+    "@babel/preset-typescript": "^7.24.7",
+    "@preact/preset-vite": "^2.9.0",
+    "@types/chrome": "^0.0.270",
+    "babel-loader": "^9.1.3",
+    "babel-preset-preact": "^2.0.0",
+    "copy-webpack-plugin": "^12.0.2",
+    "eslint": "^9.9.0",
+    "eslint-plugin-react": "^7.35.0",
+    "eslint-plugin-react-refresh": "^0.4.9",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.6.0",
+    "typescript": "^5.5.3",
+    "url-loader": "^4.1.1",
+    "vite": "^5.4.0",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-merge": "^6.0.1"
+  }
+}

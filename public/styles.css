@@ -1,0 +1,145 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat-Medium.ttf');
+}
+
+* {
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat';
+  overflow-anchor: none;
+  width: 480px;
+  margin: 2rem;
+}
+
+h2 {
+  transition: 0.5s;
+}
+
+.s26 {
+  width: 26px;
+  height: 26px;
+}
+
+.caret-btn {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 1rem;
+}
+
+.caret {
+  background-image: url('./assets/img/caret-right.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20px;
+  height: 20px;
+}
+
+.pointer {
+  cursor: pointer !important;
+}
+
+.unselectable {
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  justify-items: center;
+  grid-gap: 1rem;
+}
+
+.grid-container div:nth-child(1) {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.grid-container input:nth-child(2) {
+  width: 100%;
+}
+
+.w-2\.5 {
+  width: 3.5rem;
+}
+
+.btn3d {
+  position: relative;
+  top: -6px;
+  border: 0;
+  transition: all 40ms linear;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.btn3d:active:focus,
+.btn3d:focus:hover,
+.btn3d:focus {
+  -moz-outline-style: none;
+  outline-style: none;
+  outline: medium none;
+}
+
+.btn3d:active,
+.btn3d.active {
+  top: 2px;
+}
+
+.btn3d.btn-primary {
+  box-shadow: 0 0 0 1px #417fbd inset, 0 0 0 2px rgba(255, 255, 255, 0.15) inset,
+    0 8px 0 0 #4d5bbe, 0 8px 8px 1px rgba(0, 0, 0, 0.5);
+  background-color: #4274d7;
+}
+
+.btn3d.btn-primary:active,
+.btn3d.btn-primary.active {
+  box-shadow: 0 0 0 1px #417fbd inset, 0 0 0 1px rgba(255, 255, 255, 0.15) inset,
+    0 1px 3px 1px rgba(0, 0, 0, 0.3);
+  background-color: #4274d7;
+}
+
+.caret-btn.rotate-90 {
+  transform: rotate(90deg);
+  transition: 0.3s;
+}
+
+.caret-btn:not(.rotate-90) {
+  transition: 0.3s;
+}
+
+.hidden {
+  opacity: 0;
+  filter: blur(5px);
+  transform: translateX(-100%);
+  transition: all 1s;
+}
+
+.show {
+  opacity: 1;
+  filter: blur(0);
+  transform: translateX(0);
+}

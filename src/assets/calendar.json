@@ -1,0 +1,222 @@
+[
+  [
+    {
+      "from": "8:15",
+      "to": "16:15",
+      "uf": "M8-1q2",
+      "teacher": "Òscar Òdena",
+      "room": "AI106"
+    },
+    {
+      "from": "16:15",
+      "to": "17:15",
+      "uf": "M8-1q2",
+      "teacher": "Òscar Òdena",
+      "room": "AI106"
+    },
+    {
+      "from": "17:15",
+      "to": "18:15",
+      "uf": "M3-1",
+      "teacher": "David Pàmies",
+      "room": "AI106"
+    },
+    {
+      "from": "18:15",
+      "to": "18:35",
+      "uf": "Pati",
+      "teacher": "",
+      "room": ""
+    },
+    {
+      "from": "18:35",
+      "to": "19:35",
+      "uf": "M3-1",
+      "teacher": "David Pàmies",
+      "room": "AI106"
+    },
+    {
+      "from": "19:35",
+      "to": "20:35",
+      "uf": "M2",
+      "teacher": "Eduard Sorita",
+      "room": "AI106"
+    },
+    {
+      "from": "20:35",
+      "to": "21:35",
+      "uf": "M4",
+      "teacher": "?",
+      "room": "AI106"
+    }
+  ],
+  [
+    {
+      "from": "8:15",
+      "to": "16:15",
+      "uf": "FOL",
+      "teacher": "Lluïsa Corominas",
+      "room": "AI105"
+    },
+    {
+      "from": "16:15",
+      "to": "17:15",
+      "uf": "M2",
+      "teacher": "Eduard Sorita",
+      "room": "AI106"
+    },
+    {
+      "from": "17:15",
+      "to": "18:15",
+      "uf": "M2",
+      "teacher": "Eduard Sorita",
+      "room": "AI106"
+    },
+    {
+      "from": "18:15",
+      "to": "18:35",
+      "uf": "Pati",
+      "teacher": "",
+      "room": ""
+    },
+    {
+      "from": "18:35",
+      "to": "19:35",
+      "uf": "M3-1",
+      "teacher": "?",
+      "room": "AI106"
+    },
+    {
+      "from": "19:35",
+      "to": "20:35",
+      "uf": "M4",
+      "teacher": "?",
+      "room": "AI106"
+    },
+    {
+      "from": "20:35",
+      "to": "21:35",
+      "uf": "M4",
+      "teacher": "?",
+      "room": "AI106"
+    }
+  ],
+  [
+    {
+      "from": "8:15",
+      "to": "17:15",
+      "uf": "M6-1",
+      "teacher": "Anton Dalmau",
+      "room": "AI106"
+    },
+    {
+      "from": "17:15",
+      "to": "18:15",
+      "uf": "M2",
+      "teacher": "Eduard Sorita",
+      "room": "AI106"
+    },
+    {
+      "from": "18:15",
+      "to": "18:35",
+      "uf": "Pati",
+      "teacher": "",
+      "room": ""
+    },
+    {
+      "from": "18:35",
+      "to": "19:35",
+      "uf": "M2",
+      "teacher": "Eduard Sorita",
+      "room": "AI106"
+    },
+    {
+      "from": "19:35",
+      "to": "20:35",
+      "uf": "M3-1",
+      "teacher": "David Pàmies",
+      "room": "AI106"
+    },
+    {
+      "from": "20:35",
+      "to": "21:35",
+      "uf": "FOL",
+      "teacher": "Lluïsa Corominas",
+      "room": "AI105"
+    }
+  ],
+  [
+    {
+      "from": "8:15",
+      "to": "16:15",
+      "uf": "M8-1q2",
+      "teacher": "Òscar Òdena",
+      "room": "AI106"
+    },
+    {
+      "from": "16:15",
+      "to": "17:15",
+      "uf": "M8-1q2",
+      "teacher": "Òscar Òdena",
+      "room": "AI106"
+    },
+    {
+      "from": "17:15",
+      "to": "18:15",
+      "uf": "M3-1",
+      "teacher": "David Pàmies",
+      "room": "AI106"
+    },
+    {
+      "from": "18:15",
+      "to": "18:35",
+      "uf": "Pati",
+      "teacher": "",
+      "room": ""
+    },
+    {
+      "from": "18:35",
+      "to": "19:35",
+      "uf": "M1",
+      "teacher": "David Sentis",
+      "room": "AI106"
+    },
+    {
+      "from": "19:35",
+      "to": "20:35",
+      "uf": "M1",
+      "teacher": "David Sentis",
+      "room": "AI106"
+    },
+    {
+      "from": "20:35",
+      "to": "21:35",
+      "uf": "TUTGS1t",
+      "teacher": "David Pàmies",
+      "room": "AI106"
+    }
+  ],
+  [
+    {
+      "from": "8:15",
+      "to": "16:15",
+      "uf": "M6-1",
+      "teacher": "Anton Dalmau",
+      "room": "AI106"
+    },
+    {
+      "from": "16:15",
+      "to": "17:15",
+      "uf": "M1",
+      "teacher": "David Sentis",
+      "room": "AI106"
+    },
+    {
+      "from": "17:15",
+      "to": "18:15",
+      "uf": "M1",
+      "teacher": "David Sentis",
+      "room": "AI106"
+    }
+  ]
+]
